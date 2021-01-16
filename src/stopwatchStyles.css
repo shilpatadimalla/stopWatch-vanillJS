@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: Blue;
+}
+
+h3 {
+  color: green;
+}
+
+#timer {
+  color: brown;
+}
+
+button {
+  padding: 4px;
+  margin: 4px;
+  background-color: magenta;
+}
+
+li {
+  color: yellowgreen;
+}
